@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 291,
-    "timeWeek": 243,
-    "timeMonth": 349,
-    "timeYear": 319,
-    "dailyMinutesDown": {}
+    "time": 318,
+    "timeDay": 227,
+    "timeWeek": 239,
+    "timeMonth": 346,
+    "timeYear": 318,
+    "dailyMinutesDown": {
+      "2021-01-06": 3
+    }
   },
   {
     "name": "Secret Site",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 78,
-    "timeDay": 51,
-    "timeWeek": 70,
-    "timeMonth": 74,
+    "timeDay": 54,
+    "timeWeek": 61,
+    "timeMonth": 73,
     "timeYear": 78,
     "dailyMinutesDown": {
       "2021-01-06": 3
